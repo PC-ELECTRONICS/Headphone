@@ -1,0 +1,18 @@
+                                 Headphone
+
+
+
+1.boat 100
+2.boat 220
+3.boat 255f
+
+4.realme Buds Wired Headset  (Black, Wired in the ear)
+5.realme Buds Bluetooth Headset  (Orange, Wireless in the ear)
+
+6.JBL C150SI Wired Headset  (Red, Wired in the ear)
+7.JBL T450BT Extra Bass Bluetooth Headset  (Black, Wireless over the head)
+
+8.Sony WH-CH510 Google Assistant enabled Bluetooth Headset  (Black, Wireless over the head)
+9.Sony EX14AP Wired Headset  (Blue, Wired in the ear)
+
+10.Mivi Thunder Beats Bluetooth Headset  (Gun metal/Black, Wireless in the ear)
